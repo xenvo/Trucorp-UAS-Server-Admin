@@ -21,6 +21,6 @@
 	echo $total;
 
 
-	echo "users."
+	echo "users.";
 	$conn->close();
 ?>
