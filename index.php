@@ -20,10 +20,5 @@
 	echo "Jumlah User = ";
 	echo $total;
 	echo "users."
-		
-		
-		
-		
-		
 	$conn->close();
 ?>
